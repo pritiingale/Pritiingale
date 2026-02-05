@@ -3,13 +3,13 @@
   <img src="https://img.shields.io/badge/Hi%20there-👋-FF69B4?style=for-the-badge&logo=github" />
 </p>
 
-<h1 align="center">✨ I'm Rutuja Pansare 👩‍💻✨</h1>
+<h1 align="center">✨ I'm Priti Ingale 👩‍💻✨</h1>
 <h3 align="center">🚀 Data Scientist | Python Developer | Dashboard Creator</h3>
 
 ---
 
 ## 🌟 About Me
-- 🔭 Worked on **Hostel Management System**  
+- 🔭 Worked on **Spotify Analysis Dashboard**  
 - 📊 Creating beautiful **Power BI & Tableau Dashboards**  
 - 🐍 Strong in **Python & SQL**  
 - 🧠 Passionate about **Machine Learning & Data Visualization**  
@@ -35,9 +35,9 @@
 
 ## 💼 Projects
 
-### 🌐 Hostel Management System
-- Built using **HTML, CSS, JavaScript**  
-- Clean UI + student management forms  
+### 🌐 Spotify Analysis Dashboard
+- Built using **Power BI**  
+- Clean up Dataset 
 
 ### 📊 Dashboard Projects
 - **Power BI Dashboards** with slicers & KPI insights  
@@ -45,14 +45,6 @@
 
 ---
 
-## 🔗 Portfolio
-<p align="center">
-  <a href="https://rutuja-data-insight.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-FE7F00?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 📈 GitHub Stats
 <p align="center">
