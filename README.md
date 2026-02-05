@@ -48,24 +48,21 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rutu1929&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu1929&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritiingale&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritiingale&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
-
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://github.com/Rutu1929" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Rutu1929-181717?style=flat-square&logo=github" />
+  <a href="https://github.com/pritiingale" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-pritiingale-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/rutuja-pansare-7b5142374" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rutuja%20Pansare-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://rutuja-data-insight.lovable.app//" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FE7F00?style=flat-square&logo=Google-Chrome&logoColor=white" />
+  <a href="https://www.linkedin.com/in/priti-ingale-8841b625b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Priti%20Ingale-0A66C2?style=flat-square&logo=linkedin" />
   </a>
 </p>
+
 
 ---
 
